@@ -1,5 +1,5 @@
-import fastify from './fastify'
-// import fastify from './final-fastify'
+// import fastify from './fastify'
+import fastify from './final-fastify'
 
 const server = fastify()
 
